@@ -1,3 +1,5 @@
 # sampleApps
 
-Some random apps as placeholders for testing.
+- Sample java hello world application
+- OSGI simple import and export Service
+- 
