@@ -1,5 +1,6 @@
 # sampleApps
 
-- Sample java hello world application
-- OSGI simple import and export Service
-- 
+- Looper J@SE sample application to monitory memory in use.
+- Sample java hello world J2EE application
+- OSGI import and export Service
+- OSGI import and export Class 
